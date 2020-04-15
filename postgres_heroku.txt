@@ -1,0 +1,6 @@
+postgres://
+usuário: kamomxfimmzqjx
+senha: 7d478cd6404a7a83b361bc920166ddf8ab5927af4e43740aa12eeb9ecdbde1e6
+servidor host: ec2-52-71-55-81.compute-1.amazonaws.com
+porta: 5432
+nome base de dados: dfts3p9ogk058
